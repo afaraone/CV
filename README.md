@@ -66,7 +66,7 @@ For a complete list, click [here](https://github.com/afaraone)
 **China Agricultural University** (Sep 2016 to Mar 2018)
 *English Lecturer*
 
-Taught and designed courses in Academic English, Oral English and Introduction to Linguistics to Univeristy Students. 
+Taught and designed courses in Academic English, Oral English and Introduction to Linguistics to university students. 
 
 **Tsinghua International School** (Oct 2015 to Jul 2016)    
 *ESL Assistant*
