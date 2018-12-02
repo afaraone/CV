@@ -1,25 +1,25 @@
 ## Andres Faraone-Pirie
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I’m a full stack junior developer with experience in Ruby and Javascript.
 
 ## Skills
 
-#### Great Communication
+#### Great Communicator
+ - Teaching
+ 
+ As a teacher, I had to be engaging and communicate well in large groups. I enjoyed breaking down concepts and presenting them in a clear fashion.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+ - Startup Company
 
-- Experience
-- Achievements
-- Evidence
+I was employed as an inhouse "language consultant" for a startup company that was working on a chatbot system. I had to communicate with developers frequently and explain issues regarding linguistics.
 
-#### Another Skill
+#### Quick Learner
+ - Makers Academy
+ 
+ I had already studied some programming in my spare time in the past. At Makers I took on the challenge of a fast-paced learning environment. Not only did I learn Ruby and JS, I become comfortable with using web frameworks, CI/CD and HTTP requests.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Living and working in China
+ 
+I learned enough Mandarin to study abroad after a year of study. I adapted to the challenge of living abroad, and attending classes taught solely in Mandarin
 
 ## Projects
 For a complete list, click [here](https://github.com/afaraone)
@@ -84,8 +84,9 @@ Worked with developers to create a chatbot system. Also worked on QA testing.
 Managed website, photography and designed promotional materials for a jewellery company.
 
 ## Languages
-**Mandarin** - Working proficiency (spoken and written)
-**Spanish** - Spoken fluency
+ - **Mandarin** - Working proficiency (spoken and written)
+
+ - **Spanish** - Spoken fluency
 
 ## Interests
 **Films** I'm an avid film buff and purveyor of film trivia. Comes in handy when I'm attending a pub quiz (another one of my interests).
