@@ -29,14 +29,14 @@ For a complete list, click [here](https://github.com/afaraone)
 | [Grow](https://github.com/afaraone/final-project) | Group | Final project at Makers. A productivity manager that is synced up with Google Calendar. Learned how to use Rails, and work with 3rd party API (Google) | Two weeks | React, Rails | RSpec, Jest, Enzyme |  
 | [Acebook](https://github.com/afaraone/acebook-rails-template) | Group | A Facebook clone. First project made in Rails. Skills gained: Agile Process, CI/CD, Nested Resources in Rais | Two weeks | Ruby, Rails | RSpec, Capybara |   
 | [Bowling Challenge](https://github.com/afaraone/bowling-challenge) | Individual | A scorecard app for bowling. Demonstrates understanding of OOD. | Four days | JavaScript, jQuery | Jasmine |
-| [Bank Tech Test](https://github.com/afaraone/bank-tech) | Indiviudal | A mock tech-test of a CLI model of a banking system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
+| [Bank Tech Test](https://github.com/afaraone/bank-tech) | Individual | A mock tech-test of a CLI model of a banking system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
 | [Chitter React](https://github.com/afaraone/chitter-tech) | Individual | A mock tech-test of a front-end app for an existing CRUD API. | Five days | React | Jest, Enzyme | 
 
 ## Education
 
 #### Makers Academy (Sep 2018 to Nov 2018)
 
-- SOLID OOP Principles
+- OOD Principles
 - Agile/XP Approach
 - Ruby (Rails, Sinatra)
 - JavaScript (jQuery, React, nodeJs)
