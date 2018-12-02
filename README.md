@@ -1,5 +1,5 @@
 ## Andres Faraone-Pirie
-I’m a full stack junior developer with experience in Ruby and Javascript.
+I’m a full stack junior developer and recent Makers Academy graduate. As a teacher and a language-learner, I love learning new things and helping others do the same. I’m looking for a job where I can grow as a developer, gain hands-on experience and contribute to the team.
 
 ## Skills
 
