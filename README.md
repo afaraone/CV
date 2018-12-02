@@ -4,7 +4,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Great Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,13 +21,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Projects
+For a complete list, click [here](https://github.com/afaraone)
+
+| Project | Type | Description | Timeframe | Tech | Testing |
+|--|--|---|---|---|---|
+| [Grow](https://github.com/afaraone/final-project) | Group | Final project at Makers. A productivity manager that is synced up with Google Calendar. Learned how to use Rails, and work with 3rd party API (Google) | Two weeks | React, Rails | RSpec, Jest, Enzyme |  
+| [Acebook](https://github.com/afaraone/acebook-rails-template) | Group | A Facebook clone. First project made in Rails. Skills gained: Agile Process, CI/CD, Nested Resources in Rais | Two weeks | Ruby, Rails | RSpec, Capybara |   
+| [Bowling Challenge](https://github.com/afaraone/bowling-challenge) | Individual | A scorecard app for bowling. Demonstrates understanding of OOD. | Four days | JavaScript, jQuery | Jasmine |
+| [Bank Tech Test](https://github.com/afaraone/bank-tech) | Indiviudal | A mock tech-test of a CLI model of a banking system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
+| [Chitter React](https://github.com/afaraone/chitter-tech) | Individual | A mock tech-test of a front-end app for an existing CRUD API. | Five days | React | Jest, Enzyme | 
+
 ## Education
 
 #### Makers Academy (Sep 2018 to Nov 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - SOLID OOP Principles
 - Agile/XP Approach
@@ -58,10 +65,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 **China Agricultural University** (Sep 2016 to Mar 2018)
 *English Lecturer*
+
 **Tsinghua International School** (Oct 2015 to Jul 2016)    
 *ESL Assistant*
+
 **London Brand Management** (May 2013 to Jun 2014)   
 *Your job title*  
+
 **Annagee Ltd**(2008 to 2012)
 *Marketing and IT*
 
