@@ -39,14 +39,14 @@ For a complete list, click [here](https://github.com/afaraone)
 - SOLID OOP Principles
 - Agile/XP Approach
 - Ruby (Rails, Sinatra)
-- JavaScript (jQuery, React, Redux, nodeJs)
+- JavaScript (jQuery, React, nodeJs)
 - TDD (RSpec, Capybara, Jasmine, Mocha, Jest, Enzyme, Puppeteer)
 
 #### University of Cambridge (Oct 2015 to Jul 2015)
 
 - Mphil Theoretical and Applied Linguistics
-- Computational Linguistics, Speech Analysis, Second Language Learning
-- Dissertation on how English words have been borrowed in Mandarin Chinese
+- Computational Linguistics, Speech Analysis, Speech Perception Second Language Learning
+- Dissertation on how English words change when borrowed in Mandarin Chinese
 
 #### School of Oriental and African Studies, UOL (Sep 2009 to Jun 2013)
 
@@ -66,16 +66,28 @@ For a complete list, click [here](https://github.com/afaraone)
 **China Agricultural University** (Sep 2016 to Mar 2018)
 *English Lecturer*
 
+Taught and designed courses in Academic English, Oral English and Introduction to Linguistics to Univeristy Students. 
+
 **Tsinghua International School** (Oct 2015 to Jul 2016)    
 *ESL Assistant*
 
-**London Brand Management** (May 2013 to Jun 2014)   
-*Your job title*  
+Taught remedial English and Linguistics to high school students.
+
+**Digital Genius** (May 2013 to Jun 2014)   
+*Language Consultant*  
+
+Worked with developers to create a chatbot system. Also worked on QA testing.
 
 **Annagee Ltd**(2008 to 2012)
 *Marketing and IT*
 
+Managed website, photography and designed promotional materials for a jewellery company.
+
+## Languages
+**Mandarin** - Working proficiency (spoken and written)
+**Spanish** - Spoken fluency
+
 ## Interests
-**Films** I'm an avid film watcher.
+**Films** I'm an avid film buff and purveyor of film trivia. Comes in handy when I'm attending a pub quiz (another one of my interests).
 
 **Chinese Culture and Affairs** I've spent 3 years living in China, and am passionate about all things Chinese, particularly Modern History, Go and Cinema.
