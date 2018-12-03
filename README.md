@@ -1,16 +1,16 @@
 ## Andres Faraone-Pirie
-I’m a full stack junior developer and recent Makers Academy graduate. As a teacher and a language-learner, I love learning new things and helping others do the same. I’m looking for a job where I can grow as a developer, gain hands-on experience and contribute to the team.
+I’m a full stack junior developer and recent Makers Academy graduate. As a teacher and a language learner, I love learning new things and helping others do the same. I’m looking for a job where I can grow as a developer, gain hands-on experience and contribute to the team.
 
 ## Skills
 
 #### Great Communicator
  - Teaching
  
- As a teacher, I had to be engaging and communicate well in large groups. I enjoyed breaking down concepts and presenting them in a clear fashion.
+ As a teacher, I had to be engaging and communicate well in large groups. I excelled at breaking down concepts and presenting them in a clear fashion.
 
  - Startup Company
 
-I was employed as an inhouse "language consultant" for a startup company that was working on a chatbot system. I had to communicate with developers frequently and explain issues regarding linguistics.
+I was employed as an inhouse language consultant for a startup company that was working on a chatbot system. I had to communicate with developers frequently and explain issues regarding linguistics.
 
 #### Quick Learner
  - Makers Academy
@@ -19,7 +19,20 @@ I was employed as an inhouse "language consultant" for a startup company that wa
 
 - Living and working in China
  
-I learned enough Mandarin to study abroad after a year of study. I adapted to the challenge of living abroad, and attending classes taught solely in Mandarin
+I learned enough Mandarin to study abroad after a year of study. I adapted to the challenge of living abroad, and attending classes taught solely in Mandarin.
+
+#### Analytical Skills
+ - Masters in Linguistics
+ 
+I have a strong methodical approach to problems. This is demonstrated by my academic background, which required logical reasoning and academic rigour. Im my Masters, I further developed my analytical skills by applying statistical methods to my research.
+
+
+#### Organized
+
+ - As a teacher I designed courses in Academic English and Linguistics. This required organisation, working with colleagues and being methodical.
+ 
+ - I followed Agile principes throughout whilst working on group projects at Makers.
+
 
 ## Projects
 For a complete list, click [here](https://github.com/afaraone)
@@ -29,7 +42,7 @@ For a complete list, click [here](https://github.com/afaraone)
 | [Grow](https://github.com/afaraone/final-project) | Group | Final project at Makers. A productivity manager that is synced up with Google Calendar. Learned how to use Rails, and work with 3rd party API (Google) | Two weeks | React, Rails | RSpec, Jest, Enzyme |  
 | [Acebook](https://github.com/afaraone/acebook-rails-template) | Group | A Facebook clone. First project made in Rails. Skills gained: Agile Process, CI/CD, Nested Resources in Rais | Two weeks | Ruby, Rails | RSpec, Capybara |   
 | [Bowling Challenge](https://github.com/afaraone/bowling-challenge) | Individual | A scorecard app for bowling. Demonstrates understanding of OOD. | Four days | JavaScript, jQuery | Jasmine |
-| [Bank Tech Test](https://github.com/afaraone/bank-tech) | Individual | A mock tech-test of a CLI model of a banking system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
+| [Bank Tech Test](https://github.com/afaraone/bank-tech) | Individual | A mock tech-test of a CLI model for a banking payment system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
 | [Chitter React](https://github.com/afaraone/chitter-tech) | Individual | A mock tech-test of a front-end app for an existing CRUD API. | Five days | React | Jest, Enzyme | 
 
 ## Education
