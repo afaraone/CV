@@ -99,6 +99,7 @@ Taught remedial English and Linguistics to high school students.
 Worked with developers to create a chatbot system. Also worked on QA testing.
 
 **Annagee Ltd**(2008 to 2012)
+
 *Marketing and IT*
 
 Managed website, photography and designed promotional materials for a jewellery company.
