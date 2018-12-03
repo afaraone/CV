@@ -27,7 +27,7 @@ I learned enough Mandarin to study abroad after a year of study. I adapted to th
 I have a strong methodical approach to problems. This is demonstrated by my academic background, which required logical reasoning and academic rigour. Im my Masters, I further developed my analytical skills by applying statistical methods to my research.
 
 
-#### Organized
+#### Organised
 
  - As a teacher I designed courses in Academic English and Linguistics. This required organisation, working with colleagues and being methodical.
  
