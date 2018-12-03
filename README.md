@@ -22,7 +22,7 @@ I was employed as an inhouse language consultant for a startup company that was 
 #### Quick Learner
  - Makers Academy
  
- I had already studied some programming in my spare time in the past. At Makers I took on the challenge of a fast-paced learning environment. Not only did I learn Ruby and JS, I become comfortable with using web frameworks, CI/CD and HTTP requests.
+At Makers I took on the challenge of a fast-paced learning environment. Not only did I learn Ruby and JS, I become comfortable with using web frameworks, CI/CD and HTTP requests.
 
 - Living and working in China
  
