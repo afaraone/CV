@@ -1,7 +1,14 @@
 ## Andres Faraone-Pirie
-I’m a full stack junior developer and recent Makers Academy graduate. As a teacher and a language learner, I love learning new things and helping others do the same. I’m looking for a job where I can grow as a developer, gain hands-on experience and contribute to the team.
+I’m a full stack junior developer and recent Makers Academy graduate. As a teacher and a linguist, I love learning new things and helping others do the same. I’m looking for a job where I can grow as a developer, gain hands-on experience and contribute to the team.
 
 ## Skills
+
+#### Technical Skills
+ - Whilst at Makers, I gained the necessary skill-set for full stack web development. I am familiar with Ruby, JavaScript, HTML and CSS, and have worked with frameworks such as Rails, Sinatra, React and NodeJS.
+ - In addition to technical knowledge, I have an understanding of good design for OOD and follow SOLID principles.
+ - I follow Test-Driven Development, and am familiar with RSpec, Capybara, Jasmine, Jest, Mocha, Enzyme and Puppeteer. I make use of test databases and mocked objects to ensure robust unit testing.
+ - I have used CI/CD in my projects and am currently learning about containerisation (Docker and Kubernetes).
+
 
 #### Great Communicator
  - Teaching
@@ -10,7 +17,7 @@ I’m a full stack junior developer and recent Makers Academy graduate. As a tea
 
  - Startup Company
 
-I was employed as an inhouse language consultant for a startup company that was working on a chatbot system. I had to communicate with developers frequently and explain issues regarding linguistics.
+I was employed as an inhouse language consultant for a startup company that was working on a chatbot system. I had to communicate with developers frequently and clarify any issues regarding linguistics.
 
 #### Quick Learner
  - Makers Academy
@@ -22,9 +29,9 @@ I was employed as an inhouse language consultant for a startup company that was 
 I learned enough Mandarin to study abroad after a year of study. I adapted to the challenge of living abroad, and attending classes taught solely in Mandarin.
 
 #### Analytical Skills
- - Masters in Linguistics
- 
-I have a strong methodical approach to problems. This is demonstrated by my academic background, which required logical reasoning and academic rigour. Im my Masters, I further developed my analytical skills by applying statistical methods to my research.
+ - Masters in Linguistics 
+
+I have a strong methodical approach to problems. This is demonstrated by my academic background, which required logical reasoning and academic rigour. I applied statistical analysis (SPSS) in my dissertation.I have a strong understanding of formal logic and abstract structures.
 
 
 #### Organised
@@ -41,7 +48,7 @@ For a complete list, click [here](https://github.com/afaraone)
 |--|--|---|---|---|---|
 | [Grow](https://github.com/afaraone/final-project) | Group | Final project at Makers. A productivity manager that is synced up with Google Calendar. Learned how to use Rails, and work with 3rd party API (Google) | Two weeks | React, Rails | RSpec, Jest, Enzyme |  
 | [Acebook](https://github.com/afaraone/acebook-rails-template) | Group | A Facebook clone. First project made in Rails. Skills gained: Agile Process, CI/CD, Nested Resources in Rais | Two weeks | Ruby, Rails | RSpec, Capybara |   
-| [Bowling Challenge](https://github.com/afaraone/bowling-challenge) | Individual | A scorecard app for bowling. Demonstrates understanding of OOD. | Four days | JavaScript, jQuery | Jasmine |
+| [Bowling Challenge](https://github.com/afaraone/bowling-challenge) | Individual | A scorecard app for Ten-Pin Bowling. Demonstrates understanding of OOD. | Four days | JavaScript, jQuery | Jasmine |
 | [Bank Tech Test](https://github.com/afaraone/bank-tech) | Individual | A mock tech-test of a CLI model for a banking payment system. Demonstrates clean, readable code and OOD. | Two days | Ruby | RSpec |
 | [Chitter React](https://github.com/afaraone/chitter-tech) | Individual | A mock tech-test of a front-end app for an existing CRUD API. | Five days | React | Jest, Enzyme | 
 
@@ -58,8 +65,8 @@ For a complete list, click [here](https://github.com/afaraone)
 #### University of Cambridge (Oct 2015 to Jul 2015)
 
 - Mphil Theoretical and Applied Linguistics
-- Computational Linguistics, Speech Analysis, Speech Perception Second Language Learning
-- Dissertation on how English words change when borrowed in Mandarin Chinese
+- Phonetics and Phonlogy, Speech Perception, Computational Linguistics and Second Language Acquisition.
+- Dissertation on how foreign words change when borrowed into Mandarin Chinese
 
 #### School of Oriental and African Studies, UOL (Sep 2009 to Jun 2013)
 
